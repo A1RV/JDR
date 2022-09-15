@@ -1,0 +1,31 @@
+Dragon des profondeurs, adulte
+[ Adult Deep Dragon ]
+Dragon de taille TG, typiquement neutre mauvais
+Classe d'armure 17 (armure naturelle)
+Points de vie 147 (14d12 + 56)
+Vitesse 12 m, creusement 9 m, vol 24 m, nage 12 m
+FOR
+20 (+5)DEX
+14 (+2)CON
+18 (+4)INT
+16 (+3)SAG
+16 (+3)CHA
+18 (+4)
+Jets de sauvegarde Dex +6, Con +8, Sag +7, Cha +8
+Compétences Perception +7, Persuasion +12, Discrétion +10
+Résistances aux dégâts poison, psychique
+Immunités aux états charmé, effrayé, empoisonné
+Sens vision aveugle 18 m, vision dans le noir 45 m, Perception passive 17
+Langues commun, draconique, commun des profondeurs
+Puissance 11 (7200 PX)     Bonus de maîtrise +4
+Résistance légendaire (3/jour).
+ACTIONS
+Attaques multiples.
+Morsure.
+Griffes.
+Queue.
+Changement de forme.
+Souffle de cauchemar (Recharge 5-6).
+ACTIONS LÉGENDAIRES
+Queue.
+Salve de spores (coûte 2 actions).

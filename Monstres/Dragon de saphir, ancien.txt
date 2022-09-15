@@ -1,0 +1,36 @@
+Dragon de saphir, ancien
+[ Ancient Sapphire Dragon ]
+Dragon (gemmes) de taille Gig, typiquement loyal neutre
+Classe d'armure 20 (armure naturelle)
+Points de vie 370 (20d20 + 160)
+Vitesse 12 m, creusement 12 m, escalade 12 m, vol 24 m
+FOR
+27 (+8)DEX
+14 (+2)CON
+27 (+8)INT
+21 (+5)SAG
+19 (+4)CHA
+20 (+5)
+Jets de sauvegarde Dex +9, Con +15, Sag +11, Cha +12
+Compétences History +12, Perception +18, Persuasion +19, Discrétion +9
+Résistances aux dégâts foudre, tonnerre
+Immunités aux états effrayé
+Sens vision aveugle 18 m, vision dans le noir 36 m, Perception passive 28
+Langues commun, draconique, télépathie 36 m
+Puissance 22 (41000 PX)     Bonus de maîtrise +7
+Résistance légendaire (3/jour).
+Pattes d'araignée.
+Fouisseur.
+ACTIONS
+Attaques multiples.
+Morsure.
+Griffes.
+Souffle débilitant (Recharge 5-6).
+Incantation (psioniques).
+ACTIONS BONUS
+Changement de forme.
+Foulée psychique.
+ACTIONS LÉGENDAIRES
+Griffes.
+Psioniques (coûte 2 actions).
+Lancer télékinésique (coûte 3 actions).
